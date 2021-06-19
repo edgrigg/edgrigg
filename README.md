@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @edgrigg
 - 👀 I’m interested in ...DevOps
-- 🌱 I’m currently learning ...Groovy
-- 💞️ I’m looking to collaborate on ...automation
+- 🌱 I’m currently learning ...something
 - 📫 How to reach me ...http://www.linkedin.com/in/eddiegrigg/
 
 <!---
